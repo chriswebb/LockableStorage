@@ -4,7 +4,7 @@ Concurrency and locking for HTML5 localStorage.
 
 # Install
 
-    bower install lockablestorage
+    bower install git://github.com/chriswebb/LockableStorage.git
     
 # Use
 
